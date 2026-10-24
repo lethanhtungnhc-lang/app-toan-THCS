@@ -1,0 +1,8 @@
+{
+  "name": "Hành Trình Giải Mã - Đảo Toán Học 9",
+  "description": "Game ôn tập Toán 9 Giữa Học Kì I (2026–2027) bám sát CT GDPT 2018, Thông tư 22 và Công văn 7991 với đồ họa 3D low-poly, ngân hàng câu hỏi chuẩn xác và công cụ giáo viên.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
